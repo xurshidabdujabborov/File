@@ -1,0 +1,37 @@
+.Center{
+    width: 100%;
+    margin-top: 150px;
+}
+.Center .text{
+    text-align: center;
+}
+.Center .box{
+    background: #FFFFFF;
+    border: 1px solid #EBEBEB;
+    border-radius: 20px;
+    text-align: center;
+    padding: 50px 30px;
+    margin: 60px 50px;
+}
+.Center img:hover{
+    cursor: pointer;
+    transition: 1s;
+    transform: scale(1.15);
+}
+.Center .box h4{
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 38px;
+    margin-top: 28px;
+    color: rgba(24, 29, 25, 1);
+}
+.Center .box p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    color: rgba(59, 67, 62, 1);
+    margin-top: 20px;
+}
+.Center .push{
+    margin: auto;
+}

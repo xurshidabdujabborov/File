@@ -1,0 +1,32 @@
+.Choose {
+    width: 100%;
+    margin-top: 50px;
+}
+
+.Choose h2.title {
+    text-align: center;
+}
+
+.Choose p.text {
+    text-align: center;
+}
+
+.Choose .box {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.Choose .box h4 {
+    margin-top: 20px;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 35px;
+    color: rgba(24, 29, 25, 1);
+}
+
+.Choose .box p {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+}

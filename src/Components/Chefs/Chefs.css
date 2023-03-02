@@ -1,0 +1,28 @@
+.Chefs{
+    width: 100%;
+    margin-top: 100px;
+}
+.Chefs .left{
+    text-align: left;
+}
+.Chefs .left .flex{
+    display: flex;
+    flex-direction: column;
+}
+.Chefs .left .flex .css-i4bv87-MuiSvgIcon-root{
+    color: rgba(110, 191, 75, 1);
+}
+.Chefs .img img:hover{
+    cursor: pointer;
+    transition: all .25s;
+    transform: scale(1.05);
+}
+@media(max-width: 900px){
+    .Chefs .left{
+        text-align: center;
+    }  
+    .Chefs .img{
+        margin-top: 60px;
+        text-align: center;
+    }
+}

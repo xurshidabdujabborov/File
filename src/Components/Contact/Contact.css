@@ -1,0 +1,25 @@
+.Center {
+  width: 100%;
+  margin-top: 120px;
+}
+.Center .card {
+  text-align: center;
+}
+/* .Center .card form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 60px;
+} */
+.Center .card form input{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23px;
+    padding: 14px 30px;
+    border-radius: 50px;
+    border: none;   
+    border: 1.5px solid #F5F5F5;
+    margin: 0px 20px;
+}:focus{
+    outline: none;
+}
